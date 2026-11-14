@@ -6,7 +6,6 @@ Es un único archivo, `index.html`, hecho con Three.js r128. Se abre directament
 
 ## Cómo jugarlo
 - Abre `index.html` en Chrome, Safari o Edge. En iPhone o en un computador con pantalla táctil funciona con las zonas de contacto.
-- También se puede publicar con GitHub Pages: Settings → Pages → rama `main`, carpeta raíz.
 
 ## Opciones para adultos
 El panel de adultos permite ajustar, entre otras cosas:
